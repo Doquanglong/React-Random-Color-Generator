@@ -21,6 +21,7 @@
     "deploy": "npm run build && git add . && git commit -m \"Deploy and commit final code to GitHub\" && git push origin gh-pages"
   },
   "homepage": "https://Doquanglong.github.io/React-Random-Color-Generator/",
+
   "eslintConfig": {
     "extends": [
       "react-app",
