@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Random-Color-Generator/static/css/main.dc4d6ff2.css",
+    "main.js": "/React-Random-Color-Generator/static/js/main.ba12871c.js",
+    "index.html": "/React-Random-Color-Generator/index.html",
+    "main.dc4d6ff2.css.map": "/React-Random-Color-Generator/static/css/main.dc4d6ff2.css.map",
+    "main.ba12871c.js.map": "/React-Random-Color-Generator/static/js/main.ba12871c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.ba12871c.js"
+  ]
+}
